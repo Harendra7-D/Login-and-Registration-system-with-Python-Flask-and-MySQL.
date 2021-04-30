@@ -1,0 +1,10 @@
+\-- pythonlogin
+    |-- main.py
+    \-- static
+        |-- style.css
+    \-- templates
+        |-- index.html
+        |-- register.html
+        |-- home.html
+        |-- profile.html
+        |-- layout.html
